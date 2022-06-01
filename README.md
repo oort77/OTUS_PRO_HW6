@@ -3,8 +3,7 @@
 ### **Homework 6**
 
 ### Building a time series prediction model
-
-![hw5p_header](https://user-images.githubusercontent.com/73858914/170866768-f64bea0c-1af1-43e1-b8b9-623d2a1bb943.png)
+![hw6p](https://user-images.githubusercontent.com/73858914/171476388-329bdb16-898d-46c4-ba66-6233dabb7244.png)
 
 **Goals:**  
 
